@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan
-- 👀 I’m interested in PHP, NODE, Javascript, HTML, MySQL, Langage C
+- 👀 I’m interested in PHP, NODE, Javascript, HTML, CSS, MySQL, Langage C
 - 🌱 I’m currently learning all time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : wmjuan@free.fr
